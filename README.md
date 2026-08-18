@@ -10,11 +10,11 @@ I build across mechanical design, embedded systems, AR/VR, and IoT - turning ide
 
 ## Stuff I've Built & Building
 
-- **Automated Lawn Mower** — A self-navigating lawn mower powered by a custom Arduino control loop in C++. Uses real-time obstacle and boundary sensing to autonomously cut grass without manual steering. Fully documented with wiring diagrams, hardware layout, and test videos.
-- **AI-Based Smart Yoga Mat** — Wearable tech with real-time posture feedback, integrating 16 pressure sensors and smartwatch data for 92% posture detection accuracy. Tested with 30+ users.
-- **Smart Dam Monitoring System** — IoT-based flood prediction and automatic gate control system achieving 95% prediction accuracy, cutting emergency response time by 40%. *Patent published.*
-- **AR/VR Science Laboratories** — Virtual science lab with 15+ interactive 3D simulations, cutting physical lab needs by 80% and improving STEM learning outcomes by 85% for underserved schools. *Patent published.*
-- **Hybrid Composite Development (Aramid & Banana Fiber)** — Eco-friendly composite materials engineered and tested across 4 combinations for weight reduction and sustainability.
+- **[Automated Lawn Mower](https://github.com/HarrinGitHub/Automated-Lawn-Mower)** — Self-navigating mower with Arduino-based obstacle and boundary sensing.
+- **[Yogamithra — The Smart AI-Based Yoga Mat](https://github.com/HarrinGitHub/Yogamithra---The-Smart-AI-Based-Yoga-Mat)** — Wearable posture-correction mat, 92% detection accuracy.
+- **[Presa Raksha — The Dam Monitoring System](https://github.com/HarrinGitHub/Presa-Raksha-The-Dam-Monitoring-System)** — IoT flood prediction & auto gate control. *Patent published.*
+- **[AR/VR Science Laboratories for Schools](https://github.com/HarrinGitHub/AR-VR-Science-Laboratories-for-Schools)** — Virtual science lab with 15+ 3D simulations. *Patent published.*
+- **Hybrid Composite Development (Aramid & Banana Fiber)** — Eco-friendly composites tested for weight reduction.
 
 ---
 
@@ -48,6 +48,6 @@ I've led every one of these end-to-end as team lead — from concept and R&D thr
 
 ---
 
-## 📫 Let's Build Something Together
+## Let's Build Something Together
 
 [LinkedIn](https://linkedin.com/in/harrinraj-k) · [Portfolio](https://harrinrajkportfolio.netlify.app/) · harrin.3031@gmail.com
