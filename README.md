@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Harrinraj K 👋
 
-<!--
-**HarrinGitHub/HarrinGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Engineering Undergraduate | Product Design & Prototyping | AR/VR & IoT | Graphic Design**
 
-Here are some ideas to get you started:
+Chairman, Society of Automation and Robotics — SKCET · Coimbatore, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build across mechanical design, embedded systems, AR/VR, and IoT — turning ideas into working prototypes that win national-level competitions. I also bring a strong visual design sense from freelance graphic design work, which I use to make my technical projects and their documentation look as good as they work.
+
+---
+
+## 🔧 What I'm Building
+
+- **Automated Lawn Mower** — A self-navigating lawn mower powered by a custom Arduino control loop in C++. Uses real-time obstacle and boundary sensing to autonomously cut grass without manual steering. Fully documented with wiring diagrams, hardware layout, and test videos.
+- **AI-Based Smart Yoga Mat** — Wearable tech with real-time posture feedback, integrating 16 pressure sensors and smartwatch data for 92% posture detection accuracy. Tested with 30+ users.
+- **Smart Dam Monitoring System** — IoT-based flood prediction and automatic gate control system achieving 95% prediction accuracy, cutting emergency response time by 40%. *Patent published.*
+- **AR/VR Science Laboratories** — Virtual science lab with 15+ interactive 3D simulations, cutting physical lab needs by 80% and improving STEM learning outcomes by 85% for underserved schools. *Patent published.*
+- **Hybrid Composite Development (Aramid & Banana Fiber)** — Eco-friendly composite materials engineered and tested across 4 combinations for weight reduction and sustainability.
+
+---
+
+## 🏆 Recognition
+
+- 🥇 **Winner** — Smart India Hackathon 2023 (Hardware Edition), Ministry of Jal Shakti
+- 🥇 **Winner** — CDAC E-Toycathon 2025, Tamil Nadu Representative
+- 🏅 **Finalist** — Smart India Hackathon 2024 (Hardware Edition), Ministry of AYUSH
+- 🏅 **Finalist** — SAP Fest, National-Level Innovation Competition
+- 📈 **Top 50 Innovations** — TN Startup Event, Niral Thiruvizha 2024
+- 🥈 **Pre-Finalist** — L&T Techgium (8th Edition)
+- 🥈 **First Runner-Up** — Avantaa Science Expo
+- 📄 **2 Patents Published** — AR/VR Education Kit for School Students · Presa Raksha (Dam Monitoring System)
+
+I've led every one of these end-to-end as team lead — from concept and R&D through build, testing, and national evaluation.
+
+---
+
+## 🛠️ I Work With
+
+**Design & CAD:** SolidWorks · CATIA · AutoCAD · AR/VR Content Design  
+**Programming:** Python · C++ (Arduino)  
+**Creative Tools:** Adobe Photoshop · Canva · AI Design Tools (ChatGPT, DALL-E, Copilot)  
+**Domains:** IoT & Embedded Systems · Product Prototyping · Manufacturing Processes · CNC Programming
+
+---
+
+## 🎓 Education
+
+**B.E. Mechanical Engineering** — Sri Krishna College of Engineering and Technology (2023–2027), CGPA 7.99
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://linkedin.com/in/harrinraj-k) · [Portfolio](https://harrinrajkportfolio.netlify.app/) · harrin.3031@gmail.com
